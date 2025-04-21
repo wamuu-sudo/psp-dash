@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/julien/psp-dash/gfx.c" "CMakeFiles/psp-dash.dir/gfx.c.obj" "gcc" "CMakeFiles/psp-dash.dir/gfx.c.obj.d"
-  "/home/julien/psp-dash/main.c" "CMakeFiles/psp-dash.dir/main.c.obj" "gcc" "CMakeFiles/psp-dash.dir/main.c.obj.d"
+  "/mnt/c/Users/thoma/Documents/GitHub/psp-dash/gfx.c" "CMakeFiles/psp-dash.dir/gfx.c.obj" "gcc" "CMakeFiles/psp-dash.dir/gfx.c.obj.d"
+  "/mnt/c/Users/thoma/Documents/GitHub/psp-dash/main.c" "CMakeFiles/psp-dash.dir/main.c.obj" "gcc" "CMakeFiles/psp-dash.dir/main.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

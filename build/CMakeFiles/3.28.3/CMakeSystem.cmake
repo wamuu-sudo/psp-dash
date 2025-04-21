@@ -1,9 +1,9 @@
-set(CMAKE_HOST_SYSTEM "Linux-6.14.2-arch1-1")
+set(CMAKE_HOST_SYSTEM "Linux-5.15.167.4-microsoft-standard-WSL2")
 set(CMAKE_HOST_SYSTEM_NAME "Linux")
-set(CMAKE_HOST_SYSTEM_VERSION "6.14.2-arch1-1")
+set(CMAKE_HOST_SYSTEM_VERSION "5.15.167.4-microsoft-standard-WSL2")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
-include("/usr/local/pspdev/psp/share/pspdev.cmake")
+include("/home/thomas/pspdev/psp/share/pspdev.cmake")
 
 set(CMAKE_SYSTEM "Generic-1")
 set(CMAKE_SYSTEM_NAME "Generic")
