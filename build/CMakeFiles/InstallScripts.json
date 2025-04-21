@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/julien/psp-dash/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

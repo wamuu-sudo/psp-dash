@@ -1,0 +1,1 @@
+/usr/local/pspdev/bin/psp-gcc -I/usr/local/pspdev/psp/include -I/usr/local/pspdev/psp/sdk/include -DPSP -L/usr/local/pspdev/lib -L/usr/local/pspdev/psp/lib -L/usr/local/pspdev/psp/sdk/lib -Wl,-zmax-page-size=128 "CMakeFiles/psp-dash.dir/main.c.obj" "CMakeFiles/psp-dash.dir/gfx.c.obj" -o psp-dash  -lpspdebug -lpspdisplay -lpspgu -lpspge
